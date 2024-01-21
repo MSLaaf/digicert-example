@@ -18,6 +18,14 @@
 				"streetsidesoftware.code-spell-checker"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/gh-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/gh-release:1": {},
+		"ghcr.io/devcontainers-contrib/features/gitty:1": {},
+		"ghcr.io/msclock/features/gitlab-ci-local:0": {},
+		"ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:1": {}
 	}
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
